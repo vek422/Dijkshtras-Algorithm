@@ -1,0 +1,10 @@
+9
+0 Ghataka
+1 Pochinki
+2 Georgopol
+3 Mylta_Power
+4 Rozhock
+5 PowerPlant
+6 School
+7 Militery_Base
+8 Lipovoka

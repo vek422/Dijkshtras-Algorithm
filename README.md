@@ -35,7 +35,7 @@ g++ -lncurses ncurses.cpp -o ncurses
 ```
 
 # Visuals
-![output](path to image)
+![output](output.png)
 
 # Issues
  - This Algorithm Fails In Some Test Cases ( For Sample Input Failed Case is 0-2)

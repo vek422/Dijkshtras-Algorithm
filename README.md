@@ -11,21 +11,21 @@ In Addition To This We Have Used The  `ncurses` Library To Make It Little Fun Pr
  - `libncurses` Library ( Check Below For Installation).
 
 ### Installing ncurses Library 
- - Debian 
-   -Updating package list
+ - Debian <br/> 
+   Updating package list
    ```sh
    apt update
    ```
-   -Installing ncurses
+   Installing ncurses
    ```sh
    apt install libncurses6 libncursesw6
    ```
-- Arch 
-    -Updating Package List
+- Arch <br/>
+    Updating Package List
     ```sh
     pacman -Syy
     ```
-    -Installing ncurses
+    Installing ncurses
     ```sh
     pacman -S ncurses
     ```

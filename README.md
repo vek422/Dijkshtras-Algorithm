@@ -12,20 +12,20 @@ In Addition To This We Have Used The  `ncurses` Library To Make It Little Fun Pr
 
 ### Installing ncurses Library 
  - Debian 
-   ####Updating package list
+   -Updating package list
    ```sh
    apt update
    ```
-   ####Installing ncurses
+   -Installing ncurses
    ```sh
    apt install libncurses6 libncursesw6
    ```
 - Arch 
-    ####Updating Package List
+    -Updating Package List
     ```sh
     pacman -Syy
     ```
-    ####Installing ncurses
+    -Installing ncurses
     ```sh
     pacman -S ncurses
     ```
@@ -48,6 +48,5 @@ g++ -lncurses ncurses.cpp -o ncurses
 # Contributing 
  The Contribution are open for this program this program has lots of area of improvements so i would be happy to accept your contributions for this program.
  Even if you are new to ncurses or dont want to work with it, you can always contribute in other parts of Program.
- And I'm actually glad your read the whole readme 3>.
 
 

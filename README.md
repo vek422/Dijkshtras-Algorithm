@@ -38,7 +38,7 @@ g++ -lncurses ncurses.cpp -o ncurses
 ![output](output.png)
 
 # Issues
- - This Algorithm Fails In Some Test Cases ( For Sample Input Failed Case is 0-2)
+ - This Algorithm Fails In Some Test Cases ( For Sample Input Failed Case is 0-4)
  
 # RoadMap
  - Make Program More Flexible 
